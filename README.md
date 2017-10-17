@@ -23,6 +23,6 @@
 ### Template name rules
 /******
 
-#### Repositories based on this standart
+#### List with all Repositories
 - [wp-skillet](https://github.com/iceanothers/wp-skillet) by [SONNY](https://github.com/iceanothers)
 - [Carcas](https://github.com/vskochko/carcas) by [Skochko](https://github.com/vskochko)
