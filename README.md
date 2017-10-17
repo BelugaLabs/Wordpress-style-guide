@@ -8,7 +8,7 @@
 ### File names
 /******
 
-### ACF Fields name patterns
+### ACF Fields group name patterns
 /******
 
 ### CSS rules
