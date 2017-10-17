@@ -9,7 +9,7 @@
 /******
 
 ### ACF Fields group name patterns
-| Type|Exaple |
+| Type|Example|
 |---|---|
 |Fields for page|Page: Home|
 |Fields for single post|Single: Post, Single: Team|
