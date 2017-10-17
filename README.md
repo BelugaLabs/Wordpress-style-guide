@@ -25,5 +25,5 @@
 
 
 ### Repositories based on this standart
-[wp-skillet](https://github.com/iceanothers/wp-skillet) by [SONNY](https://github.com/iceanothers)
-[CARCAS](https://github.com/vskochko/carcas) by [SKOCHKO](https://github.com/vskochko) 
+- [wp-skillet](https://github.com/iceanothers/wp-skillet) by [SONNY](https://github.com/iceanothers)
+- [CARCAS](https://github.com/vskochko/carcas) by [SKOCHKO](https://github.com/vskochko)
