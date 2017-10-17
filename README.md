@@ -9,12 +9,11 @@
 /******
 
 ### ACF Fields group name patterns
-/******
-| Type   |  Exaple |
+| Type|Exaple |
 |---|---|
-| Fields for page   |  Page: Home |
-|  Fields for single post  |Single: Post, Single: Team  |
-|Fields for Option page   |  Option: Global |
+|Fields for page|Page: Home|
+|Fields for single post|Single: Post, Single: Team|
+|Fields for Option page|Option: Global|
 
 
 
