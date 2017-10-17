@@ -1,4 +1,4 @@
-# BelugaLabs Wordpress style guide
+# BelugaLabs style guide for WordpPess
 #### based on [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards)
 
 
