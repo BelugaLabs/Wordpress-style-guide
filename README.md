@@ -1,4 +1,4 @@
-# BelugaLabs style guide for WordpPess
+# [BelugaLabs](https://belugalab.com/) style guide
 #### based on [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards) and [underscores.me](https://github.com/Automattic/_s) 
 
 
