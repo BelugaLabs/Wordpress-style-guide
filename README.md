@@ -3,7 +3,6 @@
 
 
 ### Folders and files structure
-/*******
 
 <pre>/projectName  
  ┬  
@@ -21,10 +20,6 @@
      ├ init.js
      └ lib.js     
  </pre>
-
-
-### File names
-/******
 
 ### ACF Fields group name patterns
 | Type|Example|
