@@ -15,11 +15,8 @@
      ├ core.php
      ├ cpt.php
      ├ [DIR] plugins
-     ├ [DIR] acf
-     └ dbLectureList1.json [subject_id, lecture_id, title]  
-  
-
-</pre>
+     └ [DIR] acf
+ </pre>
 
 
 ### File names
