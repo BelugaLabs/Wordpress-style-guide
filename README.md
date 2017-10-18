@@ -5,6 +5,23 @@
 ### Folders and files structure
 /*******
 
+<pre>/projectName  
+ ┬  
+ ├ index.php  
+ ├ style.css  
+ ├ [DIR] scss 
+ ├ [DIR] include
+     ┬  
+     ├ core.php
+     ├ cpt.php
+     ├ [DIR] plugins
+     ├ [DIR] acf
+     └ dbLectureList1.json [subject_id, lecture_id, title]  
+  
+
+</pre>
+
+
 ### File names
 /******
 
