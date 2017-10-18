@@ -16,6 +16,10 @@
      ├ cpt.php
      ├ [DIR] plugins
      └ [DIR] acf
+ └ [DIR] js
+     ┬  
+     ├ init.js
+     └ lib.js     
  </pre>
 
 
