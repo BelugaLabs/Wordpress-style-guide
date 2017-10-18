@@ -13,7 +13,7 @@
      ├ cpt.php
      ├ [DIR] plugins
      └ [DIR] acf
- └ [DIR] js
+ ├ [DIR] js
      ┬  
      ├ init.js
      └ lib.js     
