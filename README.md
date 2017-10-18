@@ -6,8 +6,6 @@
 
 <pre>/projectName  
  ┬  
- ├ index.php  
- ├ style.css  
  ├ [DIR] scss 
  ├ [DIR] include
      ┬  
@@ -19,6 +17,8 @@
      ┬  
      ├ init.js
      └ lib.js     
+ ├ index.php  
+ └ style.css  
  </pre>
 
 ### ACF Fields group name patterns
